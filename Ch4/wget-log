@@ -1,0 +1,11 @@
+--2020-10-03 12:52:59--  https://stepik.org/media/attachments/lessons/96/RNA_codon_table_1.txt?mobile_internal_deeplink=true
+Resolving stepik.org (stepik.org)... 13.69.75.239
+Connecting to stepik.org (stepik.org)|13.69.75.239|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 380 [text/plain]
+Saving to: ‘RNA_codon_table_1.txt?mobile_internal_deeplink=true’
+
+               RNA_codon_tabl   0%[                                                  ]       0  --.-KB/s               RNA_codon_table_1.txt?mobile_ 100%[=================================================>]     380  --.-KB/s    in 0s      
+
+2020-10-03 12:52:59 (64.7 MB/s) - ‘RNA_codon_table_1.txt?mobile_internal_deeplink=true’ saved [380/380]
+

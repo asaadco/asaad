@@ -1,5 +1,5 @@
 {
     
     "powermode.enabled": true,
-    "python.pythonPath": "C:\\Users\\Asaad\\Anaconda3\\python.exe"
+    "python.pythonPath": "/usr/bin/python3"
 }
